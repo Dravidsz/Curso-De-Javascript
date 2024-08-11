@@ -12,4 +12,10 @@ const coloresFavoritos = [];
 coloresFavoritos[0]= 'Rojo';
 coloresFavoritos[1]= 'Verde';
 coloresFavoritos[3]= 'Amarillo';
+
+//Cuantos elementos tengo
+console.log('El arreglo colores tiene: '+coloresFavoritos.length + ' colores');
+
+//Para poner un valor al final
+coloresFavoritos.push('azul');
 console.log(coloresFavoritos);
