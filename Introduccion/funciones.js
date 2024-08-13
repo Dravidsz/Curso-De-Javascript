@@ -1,3 +1,5 @@
+
+/*
 console.log('Hola');
 
 function decirHola(){
@@ -5,3 +7,16 @@ function decirHola(){
 }
 
 decirHola();
+
+const saludo = function(){
+    console.log('Hola desde variable');
+};
+
+*/
+
+//saludo();
+
+
+const saludo2 = ()=>console.log('Hola');
+
+saludo2();
