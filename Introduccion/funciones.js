@@ -17,6 +17,6 @@ const saludo = function(){
 //saludo();
 
 
-const saludo2 = ()=>console.log('Hola');
+const saludo2 = ()=>console.log('Hola con funciones flecha');
 
 saludo2();
